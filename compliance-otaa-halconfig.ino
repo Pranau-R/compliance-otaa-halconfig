@@ -18,7 +18,7 @@ Author:
 #include <arduino_lmic.h>
 #include <arduino_lmic_hal_boards.h>
 #include <arduino_lmic_lorawan_compliance.h>
-
+#include <Wire.h>
 #include <SPI.h>
 class cEventQueue;
 
